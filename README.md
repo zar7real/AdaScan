@@ -429,10 +429,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: security@alchemydivision.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/adascan/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/adascan/wiki)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/adascan/discussions)
+- 📧 **Email**: None
+- 🐛 **Issues**: [GitHub Issues](https://github.com/zar7real/AdaScan/issues)
+- 📖 **Documentation**: [Wiki](https://github.com/zar7real/AdaScan/wiki)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/zar7real/AdaScan/discussions)
 
 ---
 
@@ -440,8 +440,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the Alchemy Security Division**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/adascan.svg?style=social&label=Star)](https://github.com/yourusername/adascan)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/adascan.svg?style=social&label=Fork)](https://github.com/yourusername/adascan/fork)
+[![GitHub stars](https://img.shields.io/github/stars/zar7real/AdaScan.svg?style=social&label=Star)](https://github.com/zar7real/AdaScan)
+[![GitHub forks](https://img.shields.io/github/forks/zar7real/AdaScan.svg?style=social&label=Fork)](https://github.com/zar7real/AdaScan/fork)
 
 *Empowering cybersecurity professionals with advanced network assessment capabilities*
 
