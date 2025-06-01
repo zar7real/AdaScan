@@ -1,0 +1,42 @@
+# AdaScan - Advanced Network Security Assessment Tool
+# Requirements file for Python dependencies
+
+# Core Dependencies
+# =================
+requests>=2.25.0           # HTTP library for API calls (NVD, Shodan)
+
+# Optional Dependencies (Highly Recommended)
+# ==========================================
+python-nmap>=0.7.1         # Python wrapper for nmap network scanner
+shodan>=1.25.0             # Python library for Shodan API integration
+
+# Development Dependencies (Optional)
+# ===================================
+# Uncomment for development setup
+# pytest>=6.0.0            # Testing framework
+# pytest-cov>=2.10.0       # Coverage plugin for pytest
+# flake8>=3.8.0            # Code linting
+# black>=21.0.0            # Code formatting
+# mypy>=0.812              # Static type checking
+
+# System Requirements
+# ===================
+# Python >= 3.6
+# nmap (system package) - for advanced scanning capabilities
+#   Ubuntu/Debian: sudo apt-get install nmap
+#   CentOS/RHEL: sudo yum install nmap  
+#   macOS: brew install nmap
+#   Windows: Download from https://nmap.org/download.html
+
+# Installation Instructions
+# =========================
+# Basic installation:
+#   pip install -r requirements.txt
+#
+# Development installation:
+#   pip install -r requirements.txt
+#   # Uncomment development dependencies above and run again
+#
+# Note: Some features require API keys:
+#   - NVD API key (recommended): https://nvd.nist.gov/developers/request-an-api-key
+#   - Shodan API key (optional): https://shodan.io
