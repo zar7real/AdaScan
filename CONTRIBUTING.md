@@ -471,7 +471,7 @@ We recognize contributors in several ways:
 
 - **General Questions**: Create a GitHub Discussion
 - **Bug Reports**: Create a GitHub Issue
-- **Security Issues**: security@alchemydivision.com
+- **Security Issues**: None
 - **Feature Requests**: Create a GitHub Issue with the "enhancement" label
 
 ---
